@@ -1,5 +1,5 @@
 Bread x 1
 Milk x 1
 Eggs x 10
-Apples x 5
+Apples x 2
 Oranges x 5
