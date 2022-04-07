@@ -1,5 +1,5 @@
-Bread
-Milk
-Eggs
-Apples
-Oranges
+Bread x 1
+Milk x 1
+Eggs x 10
+Apples x 5
+Oranges x 5
